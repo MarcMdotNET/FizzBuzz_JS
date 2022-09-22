@@ -78,3 +78,15 @@ code[class*="language-"],
     bottom: 0;
     width: 100%;
 }
+
+.Fizz {
+    color: darkgreen;
+}
+
+.Buzz {
+    color: darkblue;
+}
+
+.FizzBuzz {
+    color: darkred;
+}
